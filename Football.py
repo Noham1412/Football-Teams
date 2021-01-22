@@ -1,6 +1,8 @@
 import random
 import math
 
+# jsut a comment
+# this too
 class player:
     def __init__(self, name, attack, defence, shape, war, position):
         self.name = name

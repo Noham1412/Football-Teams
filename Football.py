@@ -1,7 +1,7 @@
 import random
 import math
 
-# jsut a comment
+# jsut a comment 2
 # this too
 class player:
     def __init__(self, name, attack, defence, shape, war, position):

@@ -76,6 +76,7 @@ class team:
 
     def is_he_fit(self, attack_per_team, defence_per_team, shape_per_team, war_per_team, player):
         tot_att = 0
+        ksdfncsd
         tot_def = 0
         tot_shape = 0
         tot_war = 0

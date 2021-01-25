@@ -1,7 +1,7 @@
 import random
 import math
 
-# just making a small big change
+# just making a small big change..
 class player:
     def __init__(self, name, attack, defence, shape, war, position):
         self.name = name
